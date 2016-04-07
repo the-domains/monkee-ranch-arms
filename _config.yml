@@ -1,0 +1,28 @@
+name: Monkee Ranch Arms
+favicon: null
+layout_spectrum: 0.6037988224998116
+typography_spectrum: 0.42005117191001773
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.5584551838692278
+  lightness: 0.8097105759661645
+  saturation: 0.18241726770065725
+  rhythmicContrast: 0.9590353677049279
+purpose: []
