@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Monkee Ranch Arms]]></title>
         <description><![CDATA[Monkee Ranch Arms]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/monkee-ranch-arms/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 07 Apr 2016 05:19:47 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 07 Apr 2016 05:21:29 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/monkee-ranch-arms/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ee31736d-6f5c-44aa-b855-50b89e099594.jpg">]]></description>
-            <link>undefined813d5695-29e2-4e4b-a69b-a11f5ad6fb1f/index.html</link>
+            <link>https://thegrid.ai/monkee-ranch-arms/813d5695-29e2-4e4b-a69b-a11f5ad6fb1f/index.html</link>
             <guid isPermaLink="false">813d5695-29e2-4e4b-a69b-a11f5ad6fb1f</guid>
-            <pubDate>Thu, 07 Apr 2016 05:19:39 GMT</pubDate>
+            <pubDate>Thu, 07 Apr 2016 05:21:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
